@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "ダイスキ。",
+  "base_artist": "大橋彩香",
+  "createdAt": "2026-02-18T13:22:50.956283Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ダイスキ with TeddyLoid",
+      "artist": "DAOKO",
+      "has_synced": true,
+      "path": "select/01_ダイスキ_with_TeddyLoid_DAOKO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ダイスキ with TeddyLoid (Instrumental)",
+      "artist": "DAOKO",
+      "has_synced": false,
+      "path": "select/02_ダイスキ_with_TeddyLoid_(Instrumental)_DAOKO.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Daisuki (with TeddyLoid) [ダイスキ]",
+      "artist": "DAOKO",
+      "has_synced": true,
+      "path": "select/03_Daisuki_(with_TeddyLoid)_[ダイスキ]_DAOKO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ダイスキ。",
+      "artist": "大橋彩香",
+      "has_synced": true,
+      "path": "select/04_ダイスキ。_大橋彩香.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ダイスキ",
+      "artist": "DAOKO with TeddyLoid",
+      "has_synced": true,
+      "path": "select/05_ダイスキ_DAOKO_with_TeddyLoid.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ダイスキ。 (Off Vocal)",
+      "artist": "大橋彩香",
+      "has_synced": true,
+      "path": "select/06_ダイスキ。_(Off_Vocal)_大橋彩香.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ダイスキ (feat. DAOKO) [RELOADED]",
+      "artist": "TeddyLoid",
+      "has_synced": true,
+      "path": "select/07_ダイスキ_(feat._DAOKO)_[RELOADED]_TeddyLoid.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ダイスキ (RELOADED)",
+      "artist": "TeddyLoid feat. DAOKO",
+      "has_synced": true,
+      "path": "select/08_ダイスキ_(RELOADED)_TeddyLoid_feat._DAOKO.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ダイスキ (RELOADED)",
+      "artist": "TeddyLoid; DAOKO",
+      "has_synced": true,
+      "path": "select/09_ダイスキ_(RELOADED)_TeddyLoid;_DAOKO.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ダイスキ。[instrumental]",
+      "artist": "大橋彩香",
+      "has_synced": true,
+      "path": "select/10_ダイスキ。[instrumental]_大橋彩香.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ダイスキ、E",
+      "artist": "大橋彩馁E",
+      "has_synced": true,
+      "path": "select/11_ダイスキ、E_大橋彩馁E.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ダイスキ。",
+      "artist": "大橋彩香",
+      "has_synced": false,
+      "path": "select/pl_01_ダイスキ。_大橋彩香.txt"
+    }
+  ]
+}
